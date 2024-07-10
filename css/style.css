@@ -1,0 +1,28 @@
+.main{
+    line-height: 30px;
+}
+
+.line{
+    line-height: 35px;
+}
+
+b{
+    display: block;
+}
+
+.b-color{
+    background-color: yellow;
+    
+}
+
+.color{
+    color: rgb(203, 68, 68);
+}
+
+h4{
+    color: red;
+}
+
+h1{
+    color: rgb(43, 206, 206);
+}
